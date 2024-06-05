@@ -1,0 +1,61 @@
+TITOL: MARKDIRECT
+
+Descripció: Una empresa de venda per catàleg vol trobar un model predictiu de la qualitat
+            dels seus clients.
+            Variables de resposta "codi" i "bons".
+            Les variables continues han estat tranformades fent el rati respecte el seu valor màxim. 
+
+
+VARIABLES                                          inici     len.
+ 1 "edat"                                              1     8     
+ 2 "eciv"                                             10     1     
+                 "casat"      1
+                 "solter"     2
+ 3 "nens"                                             12     1     
+                 "sense nens" 1
+                 "amb nens"   2
+ 4 "tprof"                                            14     1     
+                 "quadres"    1
+                 "obrers"     2
+                 "inactius"   3
+ 5 "antreb"                                           16     8     
+ 6 "prod_A"                                           25     1     
+                 "A no"       1
+                 "A si"       2
+ 7 "prod_B"                                           27     1     
+                 "B no"       1
+                 "B si"       2
+ 8 "prod_C"                                           29     1    
+                 "C no"       1
+                 "C si"       2
+ 9 "prod_D"                                           31     1    
+                 "D no"       1
+                 "D si"       2
+10 "prod_E"                                           33     1    
+                 "E no"       1
+                 "E si"       2
+11 "nprod"                                            35     1    
+                 "menys de 3 prods" 1
+                 "3 o mes prods"    2
+12 "data_B"                                           37     8    
+13 "interes"                                          46     1    
+                 "centre A"   1
+                 "centre B"   2
+                 "centre C"   3
+14 "total"                                            48     8    
+15 "tsense"                                           57     8    
+16 "targeta"                                          66     1    
+                 "targeta no" 1
+                 "targeta si" 2
+17 "sexe"                                             68     1    
+                 "dona"       1
+                 "home"       2
+18 "habitat"                                          70     1    
+                 "habitat 1"  1
+                 "habitat 2"  2
+                 "habitat 3"  3
+                 "habitat 4"  4
+19 "codi"                                             72     1    
+20 "bons"                                             74     1    
+                 "dolents"    1
+                 "bons"       2

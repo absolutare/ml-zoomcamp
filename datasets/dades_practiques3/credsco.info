@@ -1,0 +1,61 @@
+TITULO: Credit Scoring
+
+Descripción:
+
+Se trata de producir unas reglas de asignación de cada cliente en las 
+dos categorías de dictamen,
+
+utilizando toda la información disponible en las restantes variables.
+
+El valor 99999999 en las variables continuas indica valor faltante.
+
+
+Diccionario 
+
+dictamen final (variable de respuesta)
+  1 positivo
+  2 negativo
+
+Antigüedad en el trabajo (años)
+
+vivienda
+  1 alquiler
+  2 escritura publica
+  3 contrato privado
+  4 ignora contrato
+  5 padres
+  6 otros
+
+Plazo del préstamo (meses)
+
+Edad
+
+estado civil
+  1 soltero
+  2 casado
+  3 viudo
+  4 separado
+  5 divorciado
+
+registros
+  1 no
+  2 si
+
+tipo de trabajo
+  1 empleado fijo
+  2 empleado temporal
+  3 autonomo
+  4 otros
+
+Gastos (Kpts)
+
+Ingresos (Kpts)
+
+Patrimonio (Kpts)
+
+Patrimonio por amortizar (Kpts)
+
+Préstamo solicitado (Kpts)
+
+Precio del bien financiado (Kpts)
+
